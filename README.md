@@ -21,6 +21,7 @@ OMG, Music is dumbing us down. Horror, Plague, _Locusts!!!!_
 * [RapGenius-JS](https://github.com/kenshiro-o/RapGenius-JS) Simple querying API for RapGenius (written prior to the merging of rap & rock into genius.com)
 * [Calculate Number of Syllables](http://stackoverflow.com/questions/405161/detecting-syllables-in-a-word/4103234#4103234) via [NLTK](http://www.nltk.org/)
 * [Test grammatical correctness via NLTK](http://stackoverflow.com/questions/6115677/english-grammar-for-parsing-in-nltk/17935542#17935542)
+* ['Real' Genius API(?)](http://api.genius.com/search?q=dead+kennedys)
 
 ### Music is Making us Stupidererererererrrrr…
 

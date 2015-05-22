@@ -35,6 +35,8 @@
   "dependencies": {
     "babel": "^5.4.7",
     "bluebird": "^2.9.25",
+    "c3": "^0.4.10",
+    "d3": "^3.5.5",
     "lodash": "^3.9.1",
     "react": "^0.13.3",
     "react-router": "^0.13.3"
