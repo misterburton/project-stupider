@@ -1,0 +1,42 @@
+{
+  "name": "project-stupider",
+  "version": "1.0.0",
+  "description": "## Primary Hypothesis to test",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --port 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterburton/project-stupider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterburton/project-stupider/issues"
+  },
+  "homepage": "https://github.com/misterburton/project-stupider#readme",
+  "devDependencies": {
+    "babel-core": "^5.4.7",
+    "babel-eslint": "^3.1.7",
+    "babel-loader": "^5.1.3",
+    "css-loader": "^0.13.1",
+    "eslint": "^0.21.2",
+    "eslint-plugin-react": "^2.3.0",
+    "json-loader": "^0.5.1",
+    "node-libs-browser": "^0.5.2",
+    "react": "^0.13.3",
+    "react-hot-loader": "^1.2.7",
+    "style-loader": "^0.12.2",
+    "webpack": "^1.9.8",
+    "webpack-dev-server": "^1.9.0"
+  },
+  "dependencies": {
+    "babel": "^5.4.7",
+    "bluebird": "^2.9.25",
+    "lodash": "^3.9.1",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3"
+  }
+}
