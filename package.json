@@ -37,8 +37,14 @@
     "bluebird": "^2.9.25",
     "c3": "^0.4.10",
     "d3": "^3.5.5",
+    "flesch-kincaid": "^0.1.0",
+    "leveldown": "^1.0.6",
+    "levelup": "^1.1.0",
     "lodash": "^3.9.1",
+    "rapgenius-js": "^0.1.2",
     "react": "^0.13.3",
-    "react-router": "^0.13.3"
+    "react-router": "^0.13.3",
+    "syllable": "^0.1.4",
+    "xlsx": "^0.8.0"
   }
 }
