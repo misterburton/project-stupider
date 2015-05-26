@@ -28,8 +28,10 @@ OMG, Music is dumbing us down. Horror, Plague, _Locusts!!!!_
 * [Scientists Prove That Pop Music Is Literally Ruining Our Brains](http://mic.com/articles/98310/scientists-prove-that-pop-music-is-literally-ruining-our-brains)
 * [How Has Pop Music Really Gotten This Stupid? Yes. The Answer is Yes: A Little Friday Funny](http://www.patheos.com/blogs/paperbacktheology/2014/05/how-has-pop-music-really-gotten-this-stupid-yes-the-answer-is-yes-a-little-friday-funny.html)
 * [Does Pop Sound Louder, Dumber, and More and More the Same? One Study Says So](http://www.slate.com/blogs/browbeat/2012/07/27/pop_music_is_getting_louder_and_dumber_says_one_study_here_s_what_they_miss_.html)
-* [Like Radiohead? Not a smart move](Like Radiohead? Not a smart move)
+* [Like Radiohead? Not a smart move](http://www.theguardian.com/music/musicblog/2009/mar/10/intelligence-music-tastes-radiohead-ramones)
 * [Music vs. Smarts: Can Music make you dumb?](http://www.noisemademedoit.com/music-vs-intelligence/)
+* [SAT Scores vs. Music You Listen To](https://thegrip.wordpress.com/2009/02/26/sat-scores-vs-music-you-listen-to/)
+* [Lil' Wayne Linked to Stupid People](http://www.tmz.com/2009/02/27/lil-wayne-linked-to-stupid-people/)
 * [Real Talk, Music is Making Us Dumber](http://newtalkcitymag.com/2013/08/08/real-talk-music-is-making-us-dumber/comment-page-1/)
  * ['Versace' Lyrics](http://genius.com/Migos-versace-original-version-lyrics) by Migos
  * ['All I Have To Do Is Dream' Lyrics](http://genius.com/The-everly-brothers-all-i-have-to-do-is-dream-lyrics) by The Everly Brothers

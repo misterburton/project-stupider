@@ -1,0 +1,117 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,700);
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+::-moz-selection { color: #FFF;  background: #444; }
+::selection      { color: #FFF;  background: #444; } 
+
+body {
+ font-family: 'Merriweather', serif;
+ font-size: 20px;
+ margin: 0;
+ padding: 0;
+ color: #666;
+ margin-top: 40px;
+}
+
+h1 {
+  margin-top: -14px;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: #ff6600;
+  font-size: 18px;
+}
+
+p {
+  line-height: 160%;
+}
+
+a, a:hover, a:active {
+  text-decoration: none;
+}
+
+a {
+  border-bottom: 2px dotted #00F1FF;
+  color: #333;
+  font-weight: bold;
+  -webkit-transition: all .125s ease-out;
+  -o-transition: all .125s ease-out;
+  transition: all .125s ease-out;
+}
+
+a:hover {
+  border-bottom: 2px dotted #00A9B2;
+  color: #151515;
+}
+
+.container-fluid {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.chart {
+  padding-top: 20px;
+  background-color: #000;
+  font-family: 'Roboto Condensed', sans-serif;
+  position: relative;
+  padding-bottom: 20px;
+}
+
+.divider {
+  height: 4px;
+  width: 200px;
+  background-color: #00F1FF;
+  position: relative;
+  margin-top: 40px;
+}
+
+.header {
+  margin-bottom: 0;
+}
+
+.header p {
+  margin-top: 0;
+}
+
+.intro-copy {
+  padding-top: 40px;
+  margin-bottom: 40px;
+}
+
+.intro-copy p em {
+  font-size: 26px;
+}
+
+/* MEDIA QUERIES */
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  
+  .container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
