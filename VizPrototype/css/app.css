@@ -57,11 +57,6 @@ a:hover {
   color: #151515;
 }
 
-.container-fluid {
-  padding-right: 2rem;
-  padding-left: 2rem;
-}
-
 .chart {
   padding-top: 20px;
   background-color: #000;
@@ -98,11 +93,6 @@ a:hover {
 /* MEDIA QUERIES */
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-  
-  .container-fluid {
-    padding-right: 0;
-    padding-left: 0;
-  }
 
 }
 
