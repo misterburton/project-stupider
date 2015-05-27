@@ -44,7 +44,7 @@ a, a:hover, a:active {
 }
 
 a {
-  border-bottom: 2px dotted #00F1FF;
+  border-bottom: 2px solid #00F1FF;
   color: #333;
   font-weight: bold;
   -webkit-transition: all .125s ease-out;
@@ -53,7 +53,7 @@ a {
 }
 
 a:hover {
-  border-bottom: 2px dotted #00A9B2;
+  border-bottom: 2px solid #00A9B2;
   color: #151515;
 }
 
